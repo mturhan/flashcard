@@ -33,7 +33,17 @@
       "expo-router"
     ],
     "experiments": {
-      "typedRoutes": true
-    }
+      "typedRoutes": true,
+      "tsconfigPaths": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "228e78a1-9c8e-4121-98d9-4aebb359ddc2"
+      }
+    },
+    "owner": "maturhan"
   }
 }
